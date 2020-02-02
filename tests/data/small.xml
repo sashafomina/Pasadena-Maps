@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GraphWrapper>
+<node id="0" lat="34.1363101" lon="	-118.1225483"/>
+<node id="1" lat="34.1363834" lon="	-118.1224356"/>
+<node id="2" lat="34.1363867" lon="-118.1226448"/>
+<node id="3" lat="34.1362535" lon="-118.1226368"/>
+<node id="4" lat="34.1362491" lon="-118.1224249"/>
+<node id="5" lat="34.1364356" lon="-118.1223659"/>
+<node id="6" lat="34.1364389" lon="-118.1227038"/>
+<node id="7" lat="34.1361903" lon="-118.1226944"/>
+<node id="8" lat="34.1361925" lon="-118.1223645"/>
+<way id="20">
+ <nd ref="0"/>
+ <nd ref="1"/>
+ <nd ref="2"/>
+ <nd ref="3"/>
+ <nd ref="4"/>
+ <nd ref="0"/>
+ <nd ref="2"/>
+ <tag k="foot" v="yes"/>
+</way>
+<way id="21">
+ <nd ref="3"/>
+ <nd ref="0"/>
+ <nd ref="2"/>
+ <tag k="foot" v="yes"/>
+</way>
+<way id="27">
+  <nd ref="5"/>
+  <nd ref="6"/>
+  <nd ref="7"/>
+  <nd ref="8"/>
+  <nd ref="5"/>
+  <tag k="foot" v="yes"/>
+</way>
+<way id="29">
+  <nd ref="5"/>
+  <nd ref="1"/>
+  <tag k="foot" v="yes"/>
+</way>
+<way id="10000000">
+  <nd ref="7"/>
+  <nd ref="3"/>
+  <tag k="foot" v="yes"/>
+</way>
+</GraphWrapper>

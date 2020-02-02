@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GraphWrapper>
+<node id="0" lat="34.1363101" lon="-118.1225"/>
+<node id="1" lat="34.1363101" lon="-118.1226"/>
+<node id="2" lat="34.1363101" lon="-118.1227"/>
+<node id="3" lat="34.1363101" lon="-118.1228"/>
+<node id="4" lat="34.1363101" lon="-118.1229"/>
+<node id="5" lat="0" lon="0"/>
+<node id="6" lat="100" lon="-100"/>
+<way id="7">
+ <nd ref="0"/>
+ <nd ref="1"/>
+ <nd ref="2"/>
+ <nd ref="3"/>
+ <nd ref="4"/>
+ <tag k="foot" v="yes"/>
+</way>
+</GraphWrapper>
